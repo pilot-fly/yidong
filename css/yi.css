@@ -673,10 +673,12 @@ body{
      text-decoration: none;}
 
 .box .boxwz1{font-size: 18px;
-             color: #333333;}
+             color: #333333;
+             margin-left: 10px;}
 
 .box .boxwz2{font-size: 12px;
-              color: #666666;}
+              color: #666666;
+              margin-left: 10px;}
 
 .box .boxwz3{color: #E40077;}
 
